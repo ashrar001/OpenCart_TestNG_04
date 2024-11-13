@@ -1,0 +1,257 @@
+10:06:00.510 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5e5073ab: 1 ms
+ 10:06:00.546 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@31f20c9f: 21 ms
+ 10:06:00.565 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4ca8dbfa: 19 ms
+ 10:06:00.618 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@243f003c: 53 ms
+ 10:06:00.619 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@71cb3139: 0 ms
+ 10:08:11.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+ 10:08:11.910 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+ 10:08:11.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:11.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.916 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:11.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.918 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:11.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+ 10:08:11.957 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 28 ms.
+ 10:08:11.960 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.961 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+ 10:08:11.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:11.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.966 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:11.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:11.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:11.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:11.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:11.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:11.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+ 10:08:11.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+ 10:08:12.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:12.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:12.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 10:08:12.003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 10:08:12.040 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\AppData\Local\Temp\testng-eclipse--2019188964\testng-customsuite.xml
+
+ 10:08:12.102 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+ 10:08:18.595 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:08:18.652 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:08:18.803 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 10:08:19.382 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 10:08:21.386 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 10:08:21.466 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 10:08:22.261 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2b917fb0: 195 ms
+ 10:08:22.262 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5e5073ab: 0 ms
+ 10:08:22.287 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6ff415ad: 23 ms
+ 10:08:22.303 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@730e5763: 16 ms
+ 10:08:22.318 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@479f2dc2: 14 ms
+ 10:08:22.318 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@dab48d3: 0 ms
+ 10:39:31.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\testng.xml
+
+ 10:39:47.218 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:39:47.291 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:39:47.707 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 10:39:48.851 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 10:39:51.927 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 10:39:52.004 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 10:40:49.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\testng.xml
+
+ 10:40:58.023 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:40:58.110 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:40:58.303 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 10:40:59.364 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 10:41:01.682 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 10:41:01.741 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 10:42:17.614 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\testng.xml
+
+ 10:42:17.770 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:42:17.843 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:42:17.843 [main] ERROR testCase.TC001_Account_Regristration_Test - Test failed....
+ 10:51:43.868 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\crossBrowserTesting.xml
+
+ 10:51:50.857 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:51:50.939 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:51:51.080 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 10:51:51.542 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 10:51:53.486 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 10:51:53.598 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 10:52:01.185 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:52:01.186 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:52:01.422 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 10:52:02.199 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 10:52:04.518 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 10:52:04.590 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 10:52:15.433 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:52:15.433 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:52:15.796 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 10:52:16.302 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 10:52:17.734 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 10:52:17.784 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 10:53:24.735 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\crossBrowserTesting.xml
+
+ 10:53:48.492 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:53:49.092 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:53:49.594 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:53:49.598 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:53:49.726 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 10:53:52.816 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 10:53:57.451 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 10:53:57.869 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 10:53:58.082 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 10:53:59.527 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 10:54:02.760 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 10:54:02.883 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 10:54:06.805 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 10:54:06.809 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 10:54:07.232 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 10:54:07.890 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 10:54:09.441 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 10:54:09.491 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 11:07:26.336 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\testng.xml
+
+ 11:07:39.995 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 11:07:40.057 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 11:07:40.233 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 11:07:40.772 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 11:07:43.752 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 11:07:43.820 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 11:08:08.653 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\crossBrowserTesting.xml
+
+ 11:08:26.673 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 11:08:27.093 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 11:08:27.911 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 11:08:29.786 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 11:08:30.461 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 11:08:30.462 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 11:08:31.142 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 11:08:34.000 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 11:08:40.724 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 11:08:41.015 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 11:08:41.017 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 11:08:41.768 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 11:08:42.029 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 11:08:43.224 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 11:08:44.417 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 11:08:44.510 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 11:08:45.421 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 11:08:45.537 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 13:29:00.249 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\testng.xml
+
+ 13:29:16.675 [main] INFO  testCase.TC002_Login_Test - ******* Staring TC002_Login_Test *********
+ 13:29:19.594 [main] INFO  testCase.TC002_Login_Test - ******** Finished TC002_Login_Test *********
+ 20:12:22.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\DDT.xml
+
+ 20:14:22.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\DDT.xml
+
+ 20:14:38.984 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:14:40.043 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:14:40.543 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:14:41.195 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:14:41.823 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:15:58.426 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\DDT.xml
+
+ 20:16:09.564 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:16:10.976 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:16:11.402 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:16:11.843 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:16:12.267 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:18:15.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\DDT.xml
+
+ 20:18:25.351 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:18:26.099 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:18:26.607 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:18:27.099 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:18:27.480 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:19:49.655 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\DDT.xml
+
+ 20:20:00.274 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:20:03.395 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 20:20:03.419 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:20:05.270 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:20:16.498 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 20:20:16.504 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:20:27.953 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 20:20:27.958 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:20:29.478 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 20:28:31.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\DDT.xml
+
+ 20:28:44.858 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:28:48.066 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 20:28:48.081 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:28:50.277 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:29:01.746 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 20:29:01.756 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:29:13.295 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 20:29:13.299 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 20:29:14.835 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 23:48:00.236 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 23:48:14.391 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 23:48:14.502 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 23:48:14.742 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 23:48:15.341 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 23:48:17.770 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 23:48:17.872 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 23:48:24.723 [main] INFO  testCase.TC002_Login_Test - ******* Staring TC002_Login_Test *********
+ 23:48:26.462 [main] INFO  testCase.TC002_Login_Test - ******** Finished TC002_Login_Test *********
+ 08:12:05.284 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 08:13:34.090 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 08:13:45.735 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 08:13:45.814 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 08:13:46.037 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 08:13:46.614 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 08:13:48.676 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 08:13:48.753 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 08:13:55.166 [main] INFO  testCase.TC002_Login_Test - ******* Staring TC002_Login_Test *********
+ 08:13:56.789 [main] INFO  testCase.TC002_Login_Test - ******** Finished TC002_Login_Test *********
+ 08:31:49.951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 08:32:02.429 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 08:32:02.495 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 08:32:02.698 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 08:32:03.212 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 08:32:05.296 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 08:32:05.382 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 08:32:12.415 [main] INFO  testCase.TC002_Login_Test - ******* Staring TC002_Login_Test *********
+ 08:32:16.711 [main] INFO  testCase.TC002_Login_Test - ******** Finished TC002_Login_Test *********
+ 08:44:57.876 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 08:45:10.827 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 08:45:10.957 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 08:45:11.252 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 08:45:11.835 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 08:45:14.328 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 08:45:14.409 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 08:45:25.656 [main] INFO  testCase.TC002_Login_Test - ******* Staring TC002_Login_Test *********
+ 08:45:29.228 [main] INFO  testCase.TC002_Login_Test - ******** Finished TC002_Login_Test *********
+ 09:15:38.044 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 09:16:00.767 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 
