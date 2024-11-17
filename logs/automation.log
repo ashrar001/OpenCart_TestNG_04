@@ -254,4 +254,49 @@
  09:16:00.767 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
 
+ 22:12:18.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 22:53:24.959 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 23:03:16.529 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 23:03:33.360 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* staring TC001_Account_Regristration_Test **********
+ 23:03:33.526 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik my account of home page class 
+ 23:03:33.824 [main] INFO  testCase.TC001_Account_Regristration_Test -  clcik register of home page class 
+ 23:03:34.740 [main] INFO  testCase.TC001_Account_Regristration_Test - fill all details of account regristration class 
+ 23:03:37.758 [main] INFO  testCase.TC001_Account_Regristration_Test -                       validting              
+ 23:03:37.899 [main] INFO  testCase.TC001_Account_Regristration_Test - ********* Finshed TC001_Account_Regristration_Test **********
+ 23:03:47.477 [main] INFO  testCase.TC002_Login_Test - ******* Staring TC002_Login_Test *********
+ 23:03:49.446 [main] INFO  testCase.TC002_Login_Test - ******** Finished TC002_Login_Test *********
+ 23:06:26.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\grouping.xml
+
+ 23:06:45.486 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 23:06:49.058 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 23:06:49.127 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 23:06:52.204 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 23:07:03.932 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 23:07:03.940 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 23:07:16.009 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 23:07:16.027 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 23:07:18.442 [main] INFO  testCase.TC003_DDTest - ******** finish TC003_DDTest *********
+ 23:14:18.842 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\test-output\testng-failed.xml
+
+ 23:14:46.066 [main] INFO  testCase.TC003_DDTest - ******** starting TC003_DDTest *********
+ 11:03:46.077 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\testng.xml
+
+ 11:08:58.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\testng.xml
+
+ 11:15:57.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\testng.xml
+
+ 11:32:52.278 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCart_TestNG_04\testng.xml
+
  
